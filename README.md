@@ -1,8 +1,7 @@
 <!-- ### Hi there 👋 -->
 <h1 align="center">Hi there, I'm <a href="#" target="_blank">Maxim</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">JavaScript Frontend Developer and <a href="https://ru.hexlet.io/u/ashby" target="_blank">Hexlet</a> student
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="32"/></h3>
+<h3 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="24"/>JavaScript Frontend Developer and <a href="https://ru.hexlet.io/u/ashby" target="_blank">Hexlet</a> student</h3>
 <!--
 **MaximKalinchuk/MaximKalinchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
