@@ -1,7 +1,5 @@
 <!-- ### Hi there 👋 -->
-<h1 align="center">Hi there, I'm <a href="#" target="_blank">Maxim</a> 
-  
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm <a href="#" target="_blank">Maxim</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <p align="left">Hi, I`m Maxim Kalinchuk, a JavaScript Frontend Developer and <a href="https://ru.hexlet.io/u/ashby" target="_blank">Hexlet</a> student.   </p>
 
 <h4 align="left"><img src="https://github.githubassets.com/images/icons/emoji/unicode/26f3.png" height="20"/> Project Release:</h4>
