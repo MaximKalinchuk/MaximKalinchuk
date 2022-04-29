@@ -4,9 +4,9 @@
 <h4 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="18"/> JavaScript Frontend Developer и студент в онлайн-школе программирования <a href="https://ru.hexlet.io/u/ashby" target="_blank">Хекслет</a></h4>
 
 <h3 align="left"><img src="https://github.githubassets.com/images/icons/emoji/unicode/26f3.png" height="24"/> Сделанные проекты:</h3>
-<ul><li><a href="https://github.com/MaximKalinchuk/backend-project-lvl1">Игры разума</a> - 04.03.2022</li>
+<h4><ul><li><a href="https://github.com/MaximKalinchuk/backend-project-lvl1">Игры разума</a> - 04.03.2022</li>
 <li><a href="https://github.com/MaximKalinchuk/frontend-project-lvl2">Вычислитель отличий</a> - 26.01.2022</li>
-<li><a href="https://github.com/MaximKalinchuk/frontend-project-lvl3">RSS агрегатор</a> - в процессе</li></ul>
+<li><a href="https://github.com/MaximKalinchuk/frontend-project-lvl3">RSS агрегатор</a> - в процессе</li></ul></h4>
 
 
 <h3 align="left"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f317.png" height="24"/>  Статистика:</h3>
