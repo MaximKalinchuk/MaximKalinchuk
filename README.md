@@ -7,7 +7,7 @@
 <li><a href="https://github.com/MaximKalinchuk/frontend-project-lvl2">Difference Generator</a> - 26.01.2022 🇷🇺</li>
 <li><a href="https://github.com/MaximKalinchuk/frontend-project-lvl3">RSS aggregator</a> - 14.05.2022 🇷🇺</li>
 <!-- <li><a href="https://maximkalinchuk.github.io/">Personal website</a> - 22.05.2022 🇷🇺</li> -->
-<li><a href="https://github.com/MaximKalinchuk/react-study">React Study</a> - in the process 🇷🇺</li></ul>
+<li><a href="https://github.com/MaximKalinchuk/todo">ToDo</a> - 20.07.2022 🇷🇺</li></ul>
 
 
 <h4 align="left"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f317.png" height="20"/>  Stats:</h4>
