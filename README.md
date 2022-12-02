@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm <a href="#" target="_blank">Maxim</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <p align="left">Hi, I`m Maxim Kalinchuk, a JavaScript Frontend Developer and <a href="https://ru.hexlet.io/u/ashby" target="_blank">Hexlet</a> student.   </p>
 
-<h4 align="left"><img src="https://github.githubassets.com/images/icons/emoji/unicode/26f3.png" height="20"/> Project Release:</h4>
+<h4 align="left"><img src="https://github.githubassets.com/images/icons/emoji/unicode/26f3.png" height="20"/>Study Project Release:</h4>
 <ul><li><a href="https://github.com/MaximKalinchuk/backend-project-lvl1">Brain Games</a> - 04.03.2022 🇷🇺</li>
 <li><a href="https://github.com/MaximKalinchuk/frontend-project-lvl2">Difference Generator</a> - 26.01.2022 🇷🇺</li>
 <li><a href="https://github.com/MaximKalinchuk/frontend-project-lvl3">RSS aggregator</a> - 14.05.2022 🇷🇺</li>
