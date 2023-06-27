@@ -10,6 +10,7 @@
 
 <h4 align="left"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png?v8" height="20"/> Work Project Release:</h4>
 <ul><li><a href="https://github.com/MaximKalinchuk/ddd-project">DDD Project</a> - 10.06.2023 🇷🇺</li></ul>
+<ul><li><a href="https://github.com/MaximKalinchuk/microservices">Microservices</a> - in progress</li></ul>
 
 <h4 align="left"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f317.png" height="20"/>  Stats:</h4>
 
