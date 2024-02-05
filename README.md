@@ -8,7 +8,7 @@
 <!-- <li><a href="https://maximkalinchuk.github.io/">Personal website</a> - 22.05.2022 🇷🇺</li> -->
 <li><a href="https://github.com/MaximKalinchuk/todo">ToDo</a> - 20.07.2022 🇷🇺</li></ul>
 
-<h4 align="left"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png?v8" height="20"/> Work Project Release:</h4>
+<h4 align="left"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png?v8" height="20"/> Pet-Project Release:</h4>
 <ul><li><a href="https://github.com/MaximKalinchuk/ddd-project">DDD Project</a> - 10.06.2023 🇷🇺</li></ul>
 <ul><li><a href="https://github.com/MaximKalinchuk/microservices">Microservices</a> - 06.07.2023 🇷🇺</li></ul>
 
